@@ -1,0 +1,7 @@
+*dist/
+*build/
+*.spec
+*.lnk
+*.exe
+gitignore_*
+__pycache__/
