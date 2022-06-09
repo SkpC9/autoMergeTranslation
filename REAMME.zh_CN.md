@@ -14,7 +14,7 @@
 
 为了使用方便，我在release中包含了游戏本体的msgbnd.dcx文件
 
-[演示视频](https://youtu.be/qJuwR3drlrI)
+[演示视频](https://www.bilibili.com/video/BV1RL4y1K7Qh/)
 
 ## **使用说明**
 
