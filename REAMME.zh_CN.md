@@ -20,7 +20,8 @@
 
 1. 安装 [Yabber v1.3.1](https://github.com/JKAnderson/Yabber/releases/tag/1.3.1)
 2. 从 [release](https://github.com/SkpC9/autoMergeTranslation/releases) 页面下载 autoMergeTranslation.7z 文件
-3. 解压文件，然后打开 autoMergeTranslation.exe。初次打开将自动创建 ini 配置文件。按照配置文件中的示例根据你的文件路径设置这些值
+3. 解压文件，然后复制你语言对应的从游戏本体解包出来的msgbnd.dcx文件到 basemsg 文件夹
+4. 打开 autoMergeTranslation.exe。初次打开将自动创建 ini 配置文件。按照配置文件中的示例根据你的文件路径设置这些值
 
     * 配置项说明:
         * **'Yabber_folder'** : Yabber.exe 所在的文件夹
@@ -28,6 +29,6 @@
         * **'merged_msg_folder'** : 此程序的输出文件夹，合并后的文件将存放到此处
         * 在 **[mod_msg_folders]** 中，各条目按照模组加载顺序排序（目前只能人工决定加载顺序）。每一个值都是一个字符串 **mod_msg_folder**，里面包含各个模组提供的msgbnd.dcx文件
 
-4. 按照程序的指示操作. 按 Enter 开始。在程序运行时可以继续使用电脑
-5. 合并完成，程序会显示 all done。然后按 Enter 退出程序
-6. 从 merged_msg_folder(在ini文件中配置过) 中获取合并后的msgbnd.dcx文件，然后 enjoy!
+5. 按照程序的指示操作. 按 Enter 开始。在程序运行时可以继续使用电脑
+6. 合并完成，程序会显示 all done。然后按 Enter 退出程序
+7. 从 merged_msg_folder(在ini文件中配置过) 中获取合并后的msgbnd.dcx文件，然后 enjoy!

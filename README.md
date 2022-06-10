@@ -20,7 +20,8 @@ For user convenience, I included game msgbnd files from Elden Ring in release fi
 
 1. Install [Yabber v1.3.1](https://github.com/JKAnderson/Yabber/releases/tag/1.3.1)
 2. Download autoMergeTranslation.7z file from [release](https://github.com/SkpC9/autoMergeTranslation/releases) page
-3. Extract the zip file, then open the autoMergeTranslation.exe. Initial open will auto create a ini config file. Follow the example to set those values according to your file paths
+3. Extract the zip file, then copy the base msgbnd.dcx files of your language to basemsg folder
+4. Open the autoMergeTranslation.exe. Initial open will auto create a ini config file. Follow the example to set those values according to your file paths
 
     * Config explanations:
         * **'Yabber_folder'** : the folder which Yabber.exe is in.
@@ -28,6 +29,6 @@ For user convenience, I included game msgbnd files from Elden Ring in release fi
         * **'merged_msg_folder'** : the folder which Yapped-Rune-Bear.exe is in.
         * In **[mod_msg_folders]** the items are sorted by mod load order(currently have to manually decide the order). Each value is a string **mod_msg_folder**, which contains mod msgbnd.dcx files.
 
-4. Do as the program instructed. Press Enter to start. You can leave this program running in the background.
-5. When finished, it says all done, the press Enter to exit.
-6. Get the merged msgbnd.dcx files from merged_msg_folder(set in ini) and enjoy!
+5. Do as the program instructed. Press Enter to start. You can leave this program running in the background.
+6. When finished, it says all done, the press Enter to exit.
+7. Get the merged msgbnd.dcx files from merged_msg_folder(set in ini) and enjoy!
