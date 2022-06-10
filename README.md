@@ -14,7 +14,7 @@ This is for the automation of merging msgbnd.dcx files from Elden Ring translati
 
 For user convenience, I included game msgbnd files from Elden Ring in release files.
 
-[Demonstration Video](https://www.bilibili.com/video/BV1RL4y1K7Qh/)
+[Demonstration Video](https://youtu.be/gDca0l99abU)
 
 ## **Usage**
 
