@@ -26,7 +26,7 @@ For user convenience, I included game msgbnd files from Elden Ring in release fi
     * Config explanations:
         * **'Yabber_folder'** : the folder which Yabber.exe is in.
         * **'base_msg_folder'** : stores msg files extracted from base game for comparison
-        * **'merged_msg_folder'** : the folder which Yapped-Rune-Bear.exe is in.
+        * **'merged_msg_folder'** : the output folder of this program, stores merged msgbnd.dcx files.
         * In **[mod_msg_folders]** the items are sorted by mod load order(currently have to manually decide the order). Each value is a string **mod_msg_folder**, which contains mod msgbnd.dcx files.
 
 5. Do as the program instructed. Press Enter to start. You can leave this program running in the background.
